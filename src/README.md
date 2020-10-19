@@ -1,0 +1,2 @@
+# algorithms
+BirthdayCakeCandles.DiagonalDifference.Solution for HackerRank Problems
