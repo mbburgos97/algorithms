@@ -1,3 +1,5 @@
+package Easy;
+
 import java.io.*;
 import java.math.*;
 import java.text.*;
@@ -37,4 +39,4 @@ public class TimeConversion {
         bw.close();
     }
 }
-
+//https://www.hackerrank.com/challenges/time-conversion/problem

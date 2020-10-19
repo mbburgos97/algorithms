@@ -1,4 +1,4 @@
-package DiagonalDifference;
+package Easy.DiagonalDifference;
 
 import java.io.*;
 import java.util.*;

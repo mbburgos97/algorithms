@@ -1,4 +1,4 @@
-package BirthdayCakeCandles;
+package Easy.BirthdayCakeCandles;
 
 import java.io.*;
 import java.util.List;
@@ -52,3 +52,4 @@ class Solution {
     }
 }
 
+//https://www.hackerrank.com/challenges/birthday-cake-candles/problem
